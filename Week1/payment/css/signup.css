@@ -1,0 +1,85 @@
+header.main {
+  height: 49px;
+  background: #fff;
+}
+
+header.main img {
+  float: left;
+}
+
+header.main h1 {
+  float: right;
+  margin: 0;
+  font-size: 15px;
+  padding: 5px 10px;
+  font-weight: 300;
+}
+form {
+  float:  ;
+  text-align: center;
+  background-color: rgb(245, 245, 245);
+  padding: 20px 100px;
+}
+
+.col {
+  width: 33.33%;
+  float: left;
+}
+
+.col header {
+  background: #9dbfa5;
+  text-align: center;
+}
+
+.col header.active {
+  background: #438855;
+}
+
+.col header h2 {
+  margin: 0;
+  height: 66px;
+  line-height: 61px;
+}
+.col h1 {
+  font-size: 15px;
+  font-family: helvetica;
+}
+
+.col h2 {
+  font-size: 15px;
+  font-family: helvetica;
+}
+
+.fulllineinput {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: green;
+  width: 200px;
+  font-family: "Helvetica Neue";
+  font-weight: lighter;
+  font-size: 12px;
+  text-align: left;
+  clear: both;
+}
+
+.logo {
+  padding: 10px 0px -10px 0px;
+  width: 100px;
+  height: 35px;
+
+}
+.mailbox {
+  position: center;
+  width: 50px;
+  height: 50px;
+}
+.house {
+  position: center;
+  width: 50px;
+  height: 50px;
+}
+
+.submitbutton {
+  background: blue;
+  color: white;
+      }
